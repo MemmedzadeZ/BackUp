@@ -1,0 +1,15 @@
+C:\Users\НР\source\repos\BackUp\BackUp\bin\Debug\net6.0\BackUp.exe
+C:\Users\НР\source\repos\BackUp\BackUp\bin\Debug\net6.0\BackUp.deps.json
+C:\Users\НР\source\repos\BackUp\BackUp\bin\Debug\net6.0\BackUp.runtimeconfig.json
+C:\Users\НР\source\repos\BackUp\BackUp\bin\Debug\net6.0\BackUp.dll
+C:\Users\НР\source\repos\BackUp\BackUp\bin\Debug\net6.0\BackUp.pdb
+C:\Users\НР\source\repos\BackUp\BackUp\obj\Debug\net6.0\BackUp.csproj.AssemblyReference.cache
+C:\Users\НР\source\repos\BackUp\BackUp\obj\Debug\net6.0\BackUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НР\source\repos\BackUp\BackUp\obj\Debug\net6.0\BackUp.AssemblyInfoInputs.cache
+C:\Users\НР\source\repos\BackUp\BackUp\obj\Debug\net6.0\BackUp.AssemblyInfo.cs
+C:\Users\НР\source\repos\BackUp\BackUp\obj\Debug\net6.0\BackUp.csproj.CoreCompileInputs.cache
+C:\Users\НР\source\repos\BackUp\BackUp\obj\Debug\net6.0\BackUp.dll
+C:\Users\НР\source\repos\BackUp\BackUp\obj\Debug\net6.0\refint\BackUp.dll
+C:\Users\НР\source\repos\BackUp\BackUp\obj\Debug\net6.0\BackUp.pdb
+C:\Users\НР\source\repos\BackUp\BackUp\obj\Debug\net6.0\BackUp.genruntimeconfig.cache
+C:\Users\НР\source\repos\BackUp\BackUp\obj\Debug\net6.0\ref\BackUp.dll
